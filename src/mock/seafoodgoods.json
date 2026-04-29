@@ -1,0 +1,12 @@
+[
+   
+    {
+        "id": 4,
+        "name": "龙虾",
+        "desc": "澳洲出产",
+        "price": 160,
+        "unit": "只",
+        "pic": "src/assets/pic/product/4.jpg"
+    }
+   
+]

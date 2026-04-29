@@ -1,0 +1,62 @@
+[
+    {
+        "id": 15,
+        "name": "华为MateBooK",
+        "desc": "24款官方正品学生14寸i7超薄笔记本电脑高清护眼",
+        "price": 4605,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-06-15/a8e0297d-4491-4936-a350-4846e20dd4a5.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 16,
+        "name": "美的空调",
+        "desc": "新一级变频冷暖智能家用客厅立式柜机空调",
+        "price": 7820,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-06-17/b9c222ea-e7af-45f3-956c-7fb8efdb7db4.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 17,
+        "name": "德国柏林之声",
+        "desc": "无线蓝牙音箱高音质发烧级高端家用电脑小音响",
+        "price": 499,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-03-22/68ab8557-0135-47a7-81b1-231a093ca761.jpeg.a.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 18,
+        "name": "王牌8K电视机",
+        "desc": "110寸智能语音网络 110寸平板防爆款",
+        "price": 3634,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2023-11-06/e52ce18d-5eab-4e53-99f2-5fce7dbb6b13.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 19,
+        "name": "二手苹果14ProMax",
+        "desc": "双卡双待99新苹果14Pro全网通苹果14ProMax",
+        "price": 6867,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2023-12-20/56a274a6-13de-43db-b76a-7b9078472fe6.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 20,
+        "name": "一加Ace3",
+        "desc": "第二代骁龙8旗舰芯片 1.5K东方屏 拍照5G手机",
+        "price": 2969,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-02-27/30ce727f-bf77-43af-ada4-81d63725c35b.jpeg.a.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    }
+]

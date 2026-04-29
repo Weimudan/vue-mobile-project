@@ -1,0 +1,52 @@
+[
+    {
+        "name": "张三",
+        "username": "zhangsan",
+        "password": "123456",
+        "role": "仓库管理员",
+        "avatar": "https://tse4-mm.cn.bing.net/th/id/OIP-C.egBHrvTIkO73Rj6DD20_twAAAA?w=194&h=194&c=7&r=0&o=5&dpr=1.6&pid=1.7"
+    },
+    {
+        "name": "李四",
+        "username": "lisi",
+        "password": "123456",
+        "role": "仓库管理员",
+        "avatar": "https://ts1.cn.mm.bing.net/th/id/R-C.c806c0f7ff9546903c8e10e46fc69061?rik=YzDLauhAOl%2bX3w&riu=http%3a%2f%2fimg.touxiangwu.com%2fzb_users%2fupload%2f2022%2f11%2f202211071667810818980912.jpg&ehk=bOI%2fjXka%2bbpQVBf9GVhbYQhGmEL7%2bE4rZz2oBh5EuGw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "王五",
+        "username": "wangwu",
+        "password": "123456",
+        "role": "仓库管理员",
+        "avatar": "https://ts1.cn.mm.bing.net/th/id/R-C.3d3d5ad3f0db325c8d560bd27f228c66?rik=5jkqShcm87stvQ&riu=http%3a%2f%2fimg.keaiming.com%2fuploads%2fallimg%2f190201%2f3-1Z201160503-51.jpg&ehk=pGMUXbD1jdTqDsOmJJdyRF4WiOLq9kUg1W%2fJCEA4z7w%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "赵六",
+        "username": "zhaoliu",
+        "password": "123456",
+        "role": "CEO",
+        "avatar":"https://pic.616pic.com/ys_b_img/00/53/39/3u6PMofbs8.jpg"
+    },
+    {
+        "name": "孙七",
+        "username": "sunqi",
+        "password": "123456",
+        "role": "CTO",
+        "avatar":"https://tse1-mm.cn.bing.net/th/id/OIP-C.o78wVQ9LxkCmlVO8wKtlEwAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "周八",
+        "username": "zhouba",
+        "password": "123456",
+        "role": "COO",
+        "avatar":"https://pic3.ntimg.cn/pic/20210813/31256556_011420618103_4.jpg"
+    },
+    {
+        "name": "吴九",
+        "username": "wujiu",
+        "password": "123456",
+        "role": "CFO",
+        "avatar":"https://www.keaitupian.cn/cjpic/frombd/2/253/1187885326/430257650.jpg"
+    }
+
+]

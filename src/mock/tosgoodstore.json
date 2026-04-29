@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "苹果",
+      "category": "水果",
+      "brand": "阿克苏苹果",
+      "price": 14,
+      "quantity": 100,
+      "supplier": "XYZ公司",
+      "arrival_date": "2024-05-01",
+      "flag": 1,
+      "customer":"大润发",
+      "img":"https://bpic.588ku.com/back_origin_min_pic/21/01/13/65a08d0f209c8c69a0c03b29210f751d.jpg"
+    },
+    {
+      "id": 2,
+      "name": "香蕉",
+      "category": "水果",
+      "brand": "云南香蕉",
+      "price": 12,
+      "quantity": 150,
+      "supplier": "XYZ公司",
+      "arrival_date": "2024-05-05",
+      "flag": 0,
+      "customer":"",
+      "img":"https://tse1-mm.cn.bing.net/th/id/OIP-C.O5_U_RYj8BB-AWv5o7h-GQHaFF?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 3,
+      "name": "橙子",
+      "category": "水果",
+      "brand": "南安橙子",
+      "price": 15,
+      "quantity": 80,
+      "supplier": "XYZ公司",
+      "arrival_date": "2024-05-10",
+      "flag": 1,
+      "customer":"和平大饭店",
+      "img":"https://ts1.cn.mm.bing.net/th/id/R-C.be12d51514a8e8a92a06c38e837f8b44?rik=lgsMTYswn5%2fF2g&riu=http%3a%2f%2fpic.bizhi360.com%2fbbpic%2f35%2f9335.jpg&ehk=uPFBqJz5T3uAnn05iGTK1sQnHqRVtK6jRVUyvPwZuKs%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 4,
+      "name": "西瓜",
+      "category": "水果",
+      "brand": "兴建西瓜",
+      "price": 12,
+      "quantity": 120,
+      "supplier": "XYZ公司",
+      "arrival_date": "2024-05-15",
+      "flag": 0,
+      "customer":"",
+      "img":"https://ts1.cn.mm.bing.net/th/id/R-C.56023170b56e8f3258e0ad7837d0f623?rik=DJas0UXYAyCEJQ&riu=http%3a%2f%2fimg.yimutian.com%2fapp%2f56023170b56e8f3258e0ad7837d0f623.jpeg&ehk=LsbQaEitk8185BonkC0J1ErbjUjV4yUNXXe%2fSlVgeUs%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 5,
+      "name": "葡萄",
+      "category": "水果",
+      "brand": "新疆葡萄",
+      "price": 16,
+      "quantity": 70,
+      "supplier": "XYZ公司",
+      "arrival_date": "2024-05-20",
+      "flag": 0,
+      "customer":"",
+      "img":"https://ts1.cn.mm.bing.net/th/id/R-C.e9cc52b86c22ab850941e71012e6a5fd?rik=sc4eJ1T1XMZKGA&riu=http%3a%2f%2fseopic.699pic.com%2fphoto%2f50044%2f8595.jpg_wh1200.jpg&ehk=biiGG2ccRUt0gWP%2bjVlF0DQTNfcUuA9dcNsgG3CDwvs%3d&risl=&pid=ImgRaw&r=0"
+    }
+  ]

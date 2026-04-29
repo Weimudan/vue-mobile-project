@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "西瓜 1000g",
+        "desc": "正宗沙土西瓜",
+        "price": 10,
+        "unit": "份",
+        "pic": "src/assets/pic/product/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "杨梅",
+        "desc": "乡村,精选,漳州",
+        "price": 20,
+        "unit": "公斤",
+        "pic": "src/assets/pic/product/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "榴莲",
+        "desc": "猫山王榴莲",
+        "price": 80,
+        "unit": "公斤",
+        "pic": "src/assets/pic/product/3.jpg"
+    }
+]

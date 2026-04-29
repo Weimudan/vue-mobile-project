@@ -1,0 +1,194 @@
+[
+    {
+        "name": "张三",
+        "username": "zhangsan",
+        "password": "123456",
+        "avatar": "https://tse4-mm.cn.bing.net/th/id/OIP-C.egBHrvTIkO73Rj6DD20_twAAAA?w=194&h=194&c=7&r=0&o=5&dpr=1.6&pid=1.7",
+        "addressDetail": "杭州市西湖区 黄龙万科中心",
+        "city": "北京市",
+        "county": "东城区",
+        "isDefault": true,
+        "province": "北京市",
+        "tel": "13067185851",
+        "customerprice":0,
+        "buy": [ 
+            {
+                "id": 1,
+                "name": "西瓜 1000g",
+                "desc": "正宗沙土西瓜",
+                "price": 10,
+                "unit": "份",
+                "pic": "src/assets/pic/product/1.jpg",
+                "num": 12
+            }
+        ],
+        "want": [
+            {
+                "id": 2,
+                "name": "杨梅",
+                "desc": "乡村,精选,漳州",
+                "price": 20,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/2.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 3,
+                "name": "榴莲",
+                "desc": "猫山王榴莲",
+                "price": 80,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/3.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 3,
+                "name": "榴莲",
+                "desc": "猫山王榴莲",
+                "price": 80,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/3.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 3,
+                "name": "榴莲",
+                "desc": "猫山王榴莲",
+                "price": 80,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/3.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 3,
+                "name": "榴莲",
+                "desc": "猫山王榴莲",
+                "price": 80,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/3.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 3,
+                "name": "榴莲",
+                "desc": "猫山王榴莲",
+                "price": 80,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/3.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 2,
+                "name": "杨梅",
+                "desc": "乡村,精选,漳州",
+                "price": 20,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/2.jpg",
+                "num": 1,
+                "checked": false
+            }
+        ]
+    },
+    {
+        "name": "周八",
+        "username": "zhouba",
+        "password": "123456",
+        "avatar": "https://pic3.ntimg.cn/pic/20210813/31256556_011420618103_4.jpg",
+        "addressDetail": "杭州市西湖区 黄龙万科中心",
+        "city": "北京市",
+        "county": "东城区",
+        "isDefault": true,
+        "province": "北京市",
+        "tel": "13167285852",
+        "customerprice":0,
+        "buy": [ 
+            {
+                "id": 1,
+                "name": "西瓜 1000g",
+                "desc": "正宗沙土西瓜",
+                "price": 10,
+                "unit": "份",
+                "pic": "src/assets/pic/product/1.jpg",
+                "num": 12
+            }
+        ],
+        "want": [
+            {
+                "id": 2,
+                "name": "杨梅",
+                "desc": "乡村,精选,漳州",
+                "price": 20,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/2.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 3,
+                "name": "榴莲",
+                "desc": "猫山王榴莲",
+                "price": 80,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/3.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 3,
+                "name": "榴莲",
+                "desc": "猫山王榴莲",
+                "price": 80,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/3.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 3,
+                "name": "榴莲",
+                "desc": "猫山王榴莲",
+                "price": 80,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/3.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 3,
+                "name": "榴莲",
+                "desc": "猫山王榴莲",
+                "price": 80,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/3.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 3,
+                "name": "榴莲",
+                "desc": "猫山王榴莲",
+                "price": 80,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/3.jpg",
+                "num": 1,
+                "checked": false
+            },
+            {
+                "id": 2,
+                "name": "杨梅",
+                "desc": "乡村,精选,漳州",
+                "price": 20,
+                "unit": "公斤",
+                "pic": "src/assets/pic/product/2.jpg",
+                "num": 1,
+                "checked": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "id": 7,
+        "name": "汾酒",
+        "desc": "53°黄盖玻瓶汾酒",
+        "price": 549,
+        "unit": "瓶",
+        "pic": "https://img06.jiuxian.com/2023/0223/505960d9d2f34044a0030efa2372e2595.jpg"
+    },
+    {
+        "id": 8,
+        "name": "习酒",
+        "desc": "53°银质习酒",
+        "price": 799,
+        "unit": "瓶",
+        "pic": "https://img07.jiuxian.com/2023/0224/b9db3deb8f8d4e5e82e595ebf05f90f75.jpg"
+    },
+    {
+        "id": 27,
+        "name": "伊利优酸乳",
+        "desc": "原味草莓味250ml整箱儿童学生奶早餐特价批",
+        "price": 35,
+        "unit": "箱",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-05-06/4fc84e37-9b76-4869-9480-03e5d0c4a8b2.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 28,
+        "name": "娃哈哈AD钙奶",
+        "desc": "整箱批发100g乳酸菌儿童早餐奶营养牛奶酸奶含乳饮料",
+        "price": 33,
+        "unit": "箱",
+        "pic": "https://img.pddpic.com/mms-material-img/2023-04-12/8c1f51b1-8abb-4f69-ad7b-c9bbc4b74c7d.png?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 29,
+        "name": "爽歪歪牛奶",
+        "desc": "娃哈哈200g*12/24瓶儿童营养酸奶饮料整箱",
+        "price": 36,
+        "unit": "箱",
+        "pic": "https://img.pddpic.com/goods/images/2019-07-24/0a180c2a-6bff-42df-ad94-16b9c63ce266.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 30,
+        "name": "统一阿萨姆奶茶",
+        "desc": "500ml*15瓶/12瓶批发 奶茶饮料多省包邮",
+        "price": 35,
+        "unit": "箱",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-03-19/7973990a-6d82-40ed-a987-bf8cf1c37203.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    }
+
+]

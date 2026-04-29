@@ -1,0 +1,307 @@
+[   
+    
+    {
+        "id": 10,
+        "name": "小鱼海棠",
+        "desc": "四色一体修容盘高光立体哑光提亮面部阴影鼻影综合盘",
+        "price": 15,
+        "unit": "件",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-06-01/04542f35-bcfc-489e-91ae-7cf659753339.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 15,
+        "name": "华为MateBooK",
+        "desc": "24款官方正品学生14寸i7超薄笔记本电脑高清护眼",
+        "price": 4605,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-06-15/a8e0297d-4491-4936-a350-4846e20dd4a5.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 17,
+        "name": "德国柏林之声",
+        "desc": "无线蓝牙音箱高音质发烧级高端家用电脑小音响",
+        "price": 499,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-03-22/68ab8557-0135-47a7-81b1-231a093ca761.jpeg.a.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 21,
+        "name": "印花短袖t恤",
+        "desc": "男女hiphop高街情侣衫100%不起球甜酷潮流",
+        "price": 29,
+        "unit": "件",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-05-30/97b5f402-4b40-4326-a4d8-e15f5d3b1c54.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 8,
+        "name": "习酒",
+        "desc": "53°银质习酒 百年老字号酱香型白酒500ml*2瓶",
+        "price": 799,
+        "unit": "瓶",
+        "pic": "https://img07.jiuxian.com/2023/0224/b9db3deb8f8d4e5e82e595ebf05f90f75.jpg",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 22,
+        "name": "字母满印短裤",
+        "desc": "男嘻哈美式潮牌夏季休闲沙滩裤宽松潮流百搭五分裤子",
+        "price": 15,
+        "unit": "件",
+        "pic": "https://img.pddpic.com/mms-material-img/2023-07-09/1d186b45-e6fb-466a-aad0-d1f46cda055a.jpeg.a.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 27,
+        "name": "伊利优酸乳",
+        "desc": "原味草莓味250ml整箱儿童学生奶早餐特价批",
+        "price": 35,
+        "unit": "箱",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-05-06/4fc84e37-9b76-4869-9480-03e5d0c4a8b2.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 23,
+        "name": "休闲小香风格子衬衫",
+        "desc": "美式复古宽松情侣百搭男女潮流夹克外套",
+        "price": 93,
+        "unit": "件",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-02-21/a6724079-1852-4cca-8092-f641afdf23cd.png.a.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 20,
+        "name": "一加Ace3",
+        "desc": "第二代骁龙8旗舰芯片 1.5K东方屏 拍照5G手机",
+        "price": 2969,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-02-27/30ce727f-bf77-43af-ada4-81d63725c35b.jpeg.a.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 24,
+        "name": "阔腿直筒裤子",
+        "desc": "水洗做旧工装牛仔裤男款春秋季ins潮牌宽松百搭痞帅",
+        "price": 71,
+        "unit": "件",
+        "pic": "https://img.pddpic.com/open-gw/2023-12-22/87772b1d-1eee-4651-a383-f23fa7565abd.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    
+    {
+        "id": 28,
+        "name": "娃哈哈AD钙奶",
+        "desc": "整箱批发100g乳酸菌儿童早餐奶营养牛奶酸奶含乳饮料",
+        "price": 33,
+        "unit": "箱",
+        "pic": "https://img.pddpic.com/mms-material-img/2023-04-12/8c1f51b1-8abb-4f69-ad7b-c9bbc4b74c7d.png?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+   
+    {
+        "id": 30,
+        "name": "统一阿萨姆奶茶",
+        "desc": "500ml*15瓶/12瓶批发 奶茶饮料多省包邮",
+        "price": 35,
+        "unit": "箱",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-03-19/7973990a-6d82-40ed-a987-bf8cf1c37203.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 25,
+        "name": "AJCourtside23",
+        "desc": "篮球鞋藤原黑红卡其男女情侣休闲运动鞋",
+        "price": 666,
+        "unit": "双",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-06-15/a694a3c2-b7b4-4d52-92db-2d3986f19601.png.a.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 26,
+        "name": "AJCourtside3",
+        "desc": "篮球鞋烟灰复活节低帮男女情侣休闲气垫运动鞋情侣鞋",
+        "price": 566,
+        "unit": "双",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-06-13/dbe3d5b2-f921-493a-80e7-0b62e01ff18e.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 29,
+        "name": "爽歪歪牛奶",
+        "desc": "娃哈哈200g*12/24瓶儿童营养酸奶饮料整箱",
+        "price": 36,
+        "unit": "箱",
+        "pic": "https://img.pddpic.com/goods/images/2019-07-24/0a180c2a-6bff-42df-ad94-16b9c63ce266.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 19,
+        "name": "二手苹果14ProMax",
+        "desc": "双卡双待99新苹果14Pro全网通苹果14ProMax",
+        "price": 6867,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2023-12-20/56a274a6-13de-43db-b76a-7b9078472fe6.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 9,
+        "name": "法国LAMKOU护肤品",
+        "desc": "保湿美白补水抗皱淡斑水乳精套装",
+        "price": 1159,
+        "unit": "套",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-05-28/3e745adf-156f-4f0d-8f52-2b10ca48de4d.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 11,
+        "name": "水润遮瑕液",
+        "desc": "学生党遮盖痘印不脱妆防水防汗平价小众品牌",
+        "price": 15,
+        "unit": "套",
+        "pic": "https://img.pddpic.com/mms-material-img/2023-07-30/3172f192-b236-4ce0-97de-ead49ef077b6.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 16,
+        "name": "美的空调",
+        "desc": "新一级变频冷暖智能家用客厅立式柜机空调",
+        "price": 7820,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-06-17/b9c222ea-e7af-45f3-956c-7fb8efdb7db4.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 12,
+        "name": "0.01程十安",
+        "desc": "推荐眼线笔防水防汗持久不晕染下睫毛卧蚕笔眼线液",
+        "price": 7,
+        "unit": "只",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-05-31/fe58bc61-36a8-403a-b773-3f22b39e11f8.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 13,
+        "name": "NOVO睫毛膏",
+        "desc": "打底膏防水卷翘纤长浓密持久睫毛膏定型液",
+        "price": 22,
+        "unit": "只",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-03-18/e1d7afb2-2453-4ad9-991c-436c0912228a.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 18,
+        "name": "王牌8K电视机",
+        "desc": "110寸智能语音网络 110寸平板防爆款",
+        "price": 3634,
+        "unit": "台",
+        "pic": "https://img.pddpic.com/mms-material-img/2023-11-06/e52ce18d-5eab-4e53-99f2-5fce7dbb6b13.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 14,
+        "name": "[专柜正品]yls",
+        "desc": "圣1兰罗小金条哑光口红小黑条礼盒送女朋友礼物",
+        "price": 179,
+        "unit": "只",
+        "pic": "https://img.pddpic.com/mms-material-img/2024-06-19/f6fd4497-c46d-42fa-9bf9-00622e2d5e94.jpeg?imageView2/2/w/392/q/85",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 7,
+        "name": "汾酒",
+        "desc": "53°黄盖玻瓶汾酒山东杏花村475ml*6瓶 清香型",
+        "price": 549,
+        "unit": "瓶",
+        "pic": "https://img06.jiuxian.com/2023/0223/505960d9d2f34044a0030efa2372e2595.jpg",
+        "num": 1,
+        "checked": false
+    },
+    
+    {
+        "id": 1,
+        "name": "西瓜 1000g",
+        "desc": "正宗沙土西瓜 【精选良品】当季甜王西瓜",
+        "price": 10,
+        "unit": "份",
+        "pic": "src/assets/pic/product/1.jpg",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 2,
+        "name": "杨梅",
+        "desc": "乡村,精选,漳州",
+        "price": 20,
+        "unit": "公斤",
+        "pic": "src/assets/pic/product/2.jpg",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 3,
+        "name": "榴莲",
+        "desc": "猫山王榴莲",
+        "price": 80,
+        "unit": "公斤",
+        "pic": "src/assets/pic/product/3.jpg",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 4,
+        "name": "龙虾",
+        "desc": "澳洲出产",
+        "price": 160,
+        "unit": "只",
+        "pic": "src/assets/pic/product/4.jpg",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 5,
+        "name": "红萝卜",
+        "desc": "根根脆爽,饱满红嫩",
+        "price": 4,
+        "unit": "公斤",
+        "pic": "src/assets/pic/product/5.jpg",
+        "num": 1,
+        "checked": false
+    },
+    {
+        "id": 6,
+        "name": "青尖椒",
+        "desc": "入口微辣,肉厚质嫩",
+        "price": 4.98,
+        "unit": "份",
+        "pic": "src/assets/pic/product/6.jpg",
+        "num": 1,
+        "checked": false
+    }
+    
+]

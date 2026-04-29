@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "ABC供应商",
+      "contact": "张三",
+      "email": "zhangsan@abc.com",
+      "address": "北京市海淀区xx街道xx号",
+      "info": "ABC供应商是一家专业的蔬菜供应商，提供各种产品和服务。"
+    },
+    {
+      "id": 2,
+      "name": "XYZ公司",
+      "contact": "李四",
+      "email": "lisi@xyzcorp.com",
+      "address": "上海市浦东新区yy路yy号",
+      "info": "XYZ公司是一家大型企业，提供各种水果和以及海外水果。"
+    },
+    {
+      "id": 3,
+      "name": "某某集团",
+      "contact": "王五",
+      "email": "wangwu@mmjt.com",
+      "address": "广州市天河区zz街道zz号",
+      "info": "某某集团是一家大型企业集团，提供来自世界各地的鲜花。"
+    }
+    
+  ]
+  
